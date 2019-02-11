@@ -1,7 +1,7 @@
 # Projects Portfolio  
 by: Hilfi Amri
 
-## 1. Recency Frequency Monetary Analysis  
+## 1. Data Analysis - Recency Frequency Monetary Analysis  
 Process an anonymous UK Retailer dataset from Kagle to understand customer segmentation, based on the well-known RFM framework.
 In RFM, 'R' stands for 'Recency' which represents the difference of last purchased date and a predefined date; 'F' stands for 'Frequency'
 which describes the amount of transactions that has been conducted by a customer on a specific period; lastly, while 'M' tells the amount
