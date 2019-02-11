@@ -16,3 +16,9 @@ Accuracy is the sum of True Positive and True Negative over the sum of total amo
   
 Link: https://github.com/amriii/portofolio/tree/master/Directing_Customer_Subcription
 
+## 3. Machine Learning - Predicting the Number of Hourly Rentals (Time Series Modeling)
+Bike sharing systems are new generation of traditional bike rentals where the whole process from membership, 
+rental and return back has become automated. Intuitively, its business process relies heavily on customer behavior, which is also effected by other external values such as the environmental conditions. Furthermore, the number of bike rentals follow certain patterns that are heavily correlated with time, e.g. at 08.00 the number of bike rented will be higher than at 23.00 because most people do their activities in the morning compared to the latter, which makes this a time-series case. The dataset contains hourly values of number of bike rentals and other external factors which spans from 2011 to 2013. Management are invested in knowing when will be the best time to do bike maintenance at Q1 2014. Model uses XGB Regressor, with some evaluation metrics: R2 is 0.96, MAPE is 23.38 units, and RMSE 31.528 units.  
+  
+EDA Dashboard:  
+ML Repository:
