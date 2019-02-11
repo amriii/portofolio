@@ -10,7 +10,7 @@ of financial transactions for a specific user in a specific period. After comple
   
 Link: https://github.com/amriii/portofolio/tree/master/RFM_Analysis
 
-## 2. Directing Customer Subscription Model
+## 2. Machine Learning - Predicting Customer Subscription for Premium Feature
 The goal of the project is to be able to predict which customer will subscribe to the premium feature after 48 hours. The avaialable data are customer data with features including: user id, first access date, accessed-screen list, premium enrolled date, and the number of likes. The approach is to use a Logistic Regression, since we are faced with a binary classification problem. The model yields an accuracy of 0.767 (+/- 0.013). 
 Accuracy is the sum of True Positive and True Negative over the sum of total amount of predicted data.  
   
